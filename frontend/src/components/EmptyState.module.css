@@ -1,0 +1,10 @@
+.wrapper {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--text-muted);
+}
+
+.message {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
